@@ -1,0 +1,32 @@
+body{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
+.box {
+    width: 250px;
+    height: 250px;
+    color: white;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%;
+    
+}
+
+.item1 {
+    background-color: red;
+    
+}
+
+.item2 {
+    background-color: blue;
+    
+}
+
+.item3{
+    background-color: green;
+}

@@ -1,0 +1,30 @@
+
+
+.containerbox {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     
+}
+
+.item1 {
+    background-color: red;
+    
+}
+
+.item2 {
+    background-color: blue;
+}
+
+.item3 {
+    background-color: green;
+}
